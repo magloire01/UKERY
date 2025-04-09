@@ -1,0 +1,47 @@
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    background-color: var(--darker-bg);
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding: 20px;
+    z-index: 1000;
+}
+
+.logo {
+    color: var(--primary-color);
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    color: var(--light-text);
+    text-decoration: none;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.menu-item i {
+    margin-right: 15px;
+    width: 20px;
+    color: var(--primary-color);
+}
+
+.menu-item:hover {
+    background-color: rgba(255, 140, 0, 0.1);
+}
+
+.menu-item.active {
+    background-color: var(--primary-color);
+}
+
+.menu-item.active i {
+    color: var(--light-text);
+}

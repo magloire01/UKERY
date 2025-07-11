@@ -1,6 +1,6 @@
 <?php
 // Configuration de base
-define('SITE_URL', '/UKERY/admin');
+define('SITE_URL', '/admin');
 define('ROOT_PATH', dirname(__DIR__));
 
 // Configuration de la base de données

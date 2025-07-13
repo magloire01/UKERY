@@ -53,7 +53,7 @@ try {
         <div class="navRight">
             <ul>
                 <li><a href="#home">Accueil</a></li>
-                <li><a href="#bibliography">Bibliographie</a></li>
+                <li><a href="#bibliography">Biographie</a></li>
                 <li><a href="music" id="goToNextPage">Musics</a></li>
                 <li><a href="videos">Videos</a></li>
                 <li><a href="#phototheque-container">Photothèque</a></li>
@@ -128,7 +128,7 @@ try {
 
     <section id="bibliography">
         <div class="text-content">
-            <h2>Bibliographie</h2>
+            <h2>Biographie</h2>
             <p>Vainqueure du concours Goethe découverte catégorie musique voix 2022
                 et du Cameroun Talent Show la même année, Ukëry n'a pas eu à attendre bien
                 longtemps pour que la profession lui reconnaisse son talent. Pourtant obligée

@@ -209,7 +209,7 @@
         <div class="navRight">
             <ul>
                 <li><a href="index">Accueil</a></li>
-                <li><a href="index.php#bibliography">Bibliographie</a></li>
+                <li><a href="index.php#bibliography">Biographie</a></li>
                 <li><a href="music">Musics</a></li>
                 <li><a href="videos">Videos</a></li>
                 <li><a href="index.php#phototheque-container">Photothèque</a></li>

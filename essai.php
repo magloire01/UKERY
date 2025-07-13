@@ -53,7 +53,7 @@ try {
         <div class="navRight">
             <ul>
                 <li><a href="#home">Accueil</a></li>
-                <li><a href="#bibliography">Bibliographie</a></li>
+                <li><a href="#bibliography">Biographie</a></li>
                 <li><a href="music" id="goToNextPage">Musics</a></li>
                 <li><a href="videos">Videos</a></li>
                 <li><a href="#phototheque-container">Photothèque</a></li>
